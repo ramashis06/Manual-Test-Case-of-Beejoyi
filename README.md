@@ -1,79 +1,135 @@
-🧪 Beejoyi Software – Test Case & Bug Report Summary
-📌 Project Overview
+# 🧪 Beejoyi Software – Manual Testing Project
 
-Project Name: Beejoyi Software
-Module Covered: Signup & Login
-Test Designed By: Ramashis Roy
-Role: Software Quality Assurance (SQA)
+![Manual Testing](https://img.shields.io/badge/Testing-Manual-blue)
+![SQA](https://img.shields.io/badge/Role-SQA-success)
+![Excel](https://img.shields.io/badge/Tool-MS%20Excel-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-This repository contains manual test cases and bug reports created to ensure the quality, reliability, and usability of the Beejoyi Software authentication modules.
+---
 
-📊 Test Case Summary
-Item	Count
-Total Test Cases	31
-Passed	18
-Failed	13
-Test Type	Manual Testing
-Coverage	Functional & Negative Testing
+## 📌 Project Overview
 
-Key Areas Tested:
+**Project Name:** Beejoyi Software
+**Module Tested:** Signup & Login
+**Testing Type:** Manual Testing
+**Prepared By:** Ramashis Roy (SQA)
 
-User Signup
+This repository showcases a **complete manual testing project** covering test case design, execution, and bug reporting for the **Signup and Login modules** of Beejoyi Software. It is designed as a **portfolio project** for QA/SQA job applications.
 
-User Login
+---
 
-Input Validation
+## 📊 Test Case Summary
 
-Error Messages
+| Description      | Count                           |
+| ---------------- | ------------------------------- |
+| Total Test Cases | 31                              |
+| Passed           | 18                              |
+| Failed           | 13                              |
+| Test Coverage    | Functional, Negative & Boundary |
 
-Button Functionality
+### 🔍 Functional Areas Covered
 
-Boundary & Negative Scenarios
+* User Signup validation
+* User Login functionality
+* Mandatory field verification
+* Email & password validation
+* Error and warning messages
+* Button enable/disable behavior
+* Invalid and blank input handling
 
-🐞 Bug Report Summary
-Item	Count
-Total Bugs Reported	14
-Status	Open / Identified
-Severity Levels	Low, Medium, High
-Test Environment	Web Application
+---
 
-Common Bug Categories:
+## 🐞 Bug Report Summary
 
-Validation error issues
+| Severity       | Count  | Description                  |
+| -------------- | ------ | ---------------------------- |
+| High           | 4      | Login/Signup blocking issues |
+| Medium         | 6      | Validation & logic issues    |
+| Low            | 4      | UI & message issues          |
+| **Total Bugs** | **14** | Identified during testing    |
 
-Incorrect or missing error messages
+### 🐛 Sample Bug Types
 
-Login failure handling
+* Incorrect validation messages
+* Missing error prompts
+* Login failure without feedback
+* UI behavior inconsistencies
 
-UI/UX inconsistencies
+---
 
-🛠 Tools & Techniques Used
+## 📈 Test Metrics Snapshot
 
-Manual Testing
+* **Pass Rate:** 58%
+* **Fail Rate:** 42%
+* **Defect Density:** Moderate
+* **Testing Focus:** Quality, reliability, and usability
 
-Test Case Design Techniques
+---
 
-Bug Reporting & Documentation
+## 🛠 Tools & Skills Used
 
-Excel-based Test Management
+### 🔧 Tools
 
-📁 Repository Structure
+* MS Excel (Test Case & Bug Report Management)
+* Web Browser (Manual Execution)
+
+### 📚 Skills
+
+* Manual Testing
+* Test Case Writing
+* Bug Reporting
+* SDLC & STLC
+* Functional Testing
+* Regression Testing Basics
+
+---
+
+## 📁 Repository Structure
+
+```
 📦 Beejoyi-Software-Testing
  ┣ 📄 Test case of beejoyi Software.xlsx
  ┣ 📄 README.md
+```
 
-🎯 Objective
+---
 
-The goal of this testing activity is to:
+## 🎯 Testing Objectives
 
-Identify functional defects early
+* Validate core authentication functionality
+* Identify defects before production
+* Ensure proper error handling & messaging
+* Improve overall user experience
 
-Ensure smooth user authentication flow
+---
 
-Improve overall product quality and user experience
+## 📸 Screenshots (Optional)
 
-👤 Author
+> Add screenshots here for:
 
-Ramashis Roy
-Software Quality Assurance (SQA) Enthusiast
-Currently working at Network Operation Center, Metal Plus Limited
+* Test case execution sheet
+* Sample bug report
+* Application login/signup page
+
+---
+
+## 💼 Why This Project Matters (For Recruiters)
+
+* Demonstrates **hands-on manual testing skills**
+* Shows ability to write **clear test cases & bug reports**
+* Covers **real-world authentication scenarios**
+* Suitable for **Junior QA / SQA roles**
+
+---
+
+## 👤 Author
+
+**Ramashis Roy**
+Software Quality Assurance (SQA) Learner
+Network Operation Center (NOC), Metal Plus Limited
+
+🔗 GitHub: [https://github.com/ramashis06](https://github.com/ramashis06)
+
+---
+
+⭐ *If you find this project helpful, feel free to star the repository!*
