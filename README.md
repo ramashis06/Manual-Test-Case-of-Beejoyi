@@ -84,14 +84,6 @@ This repository showcases a **complete manual testing project** covering test ca
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 Beejoyi-Software-Testing
- ┣ 📄 Test case of beejoyi Software.xlsx
- ┣ 📄 README.md
-```
-
 ---
 
 ## 🎯 Testing Objectives
