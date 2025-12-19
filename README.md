@@ -6,6 +6,12 @@
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
+## 📌 Project Overview
+
+**Project Name:** Beejoyi Software  
+**Module Covered:** Signup & Login  
+**Test Designed By:** Ramashis Roy  
+**Role:** Software Quality Assurance (SQA)
 
 ## 📌 Project Overview
 
