@@ -13,12 +13,6 @@
 **Test Designed By:** Ramashis Roy  
 **Role:** Software Quality Assurance (SQA)
 
-## 📌 Project Overview
-
-**Project Name:** Beejoyi Software
-**Module Tested:** Signup & Login
-**Testing Type:** Manual Testing
-**Prepared By:** Ramashis Roy (SQA)
 
 This repository showcases a **complete manual testing project** covering test case design, execution, and bug reporting for the **Signup and Login modules** of Beejoyi Software. It is designed as a **portfolio project** for QA/SQA job applications.
 
