@@ -116,9 +116,10 @@ This repository showcases a **complete manual testing project** covering test ca
 
 ## 👤 Author
 
-**Ramashis Roy**
-Software Quality Assurance (SQA) Learner
+**Ramashis Roy**  
+Software Quality Assurance (SQA) Learner  
 Network Operation Center (NOC), Metal Plus Limited
+
 
 🔗 GitHub: [https://github.com/ramashis06](https://github.com/ramashis06)
 
