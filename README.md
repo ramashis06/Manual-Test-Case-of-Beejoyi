@@ -84,7 +84,6 @@ This repository showcases a **complete manual testing project** covering test ca
 
 ---
 
----
 
 ## 🎯 Testing Objectives
 
@@ -100,8 +99,13 @@ This repository showcases a **complete manual testing project** covering test ca
 > Add screenshots here for:
 
 * Test case execution sheet
+  ![](https://github.com/ramashis06/Manual-Test-Case-of-Beejoyi/blob/44d9a0a3cb338193c90113068cdb7cecea77bffc/Screenshot%202025-12-25%20022350.png)
+
+
 * Sample bug report
-* Application login/signup page
+![](https://github.com/ramashis06/Manual-Test-Case-of-Beejoyi/blob/1337d7ddb3615ac78293c4c5a715c2c407786b5f/Screenshot%202025-12-25%20022927.png)
+  
+* Project File: [Test case of beejoyi Software.xlsx](https://github.com/ramashis06/Manual-Test-Case-of-Beejoyi/blob/1337d7ddb3615ac78293c4c5a715c2c407786b5f/Test%20case%20of%20beejoyi%20Software.xlsx)
 
 ---
 
